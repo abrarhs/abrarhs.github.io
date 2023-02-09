@@ -1,5 +1,5 @@
 AUTHOR = 'Abrar'
-SITENAME = 'Birds'
+SITENAME = 'Quote of The Day'
 SITEURL = ''
 THEME = 'templates/mytheme'
 PATH = 'content'

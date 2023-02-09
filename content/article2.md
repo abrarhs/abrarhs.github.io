@@ -1,5 +1,5 @@
-Title: My Second Article
-Date: 2023-01-07 8:00
-Category: Blog
+Title: Quote 2
+Date: 2023-02-06 8:00
+Category: Quotes
 
-I like Pelican.
+Second quote.

@@ -1,5 +1,5 @@
-Title: My Third Article
+Title: Quote 3
 Date: 2023-02-07 8:00
-Category: Blog
+Category: Quotes
 
-I love Pelican.
+Third quote.
